@@ -1,5 +1,7 @@
 # alligator-test
 
+![screenie.png](screenie.png)
+
 ## Description
 Toy calculator app created for the purposes of a tutorial on testing Vue components for alligator.io. That post still in the works. Title will be: **Introduction to Testing Vue.js with Jest**.
 
