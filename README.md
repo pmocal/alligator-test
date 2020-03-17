@@ -1,5 +1,8 @@
 # alligator-test
 
+## Description
+Toy calculator app created for the purposes of a tutorial on testing Vue components for alligator.io. That post still in the works.
+
 ## Project setup
 ```
 npm install
@@ -27,3 +30,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# alligator-test
