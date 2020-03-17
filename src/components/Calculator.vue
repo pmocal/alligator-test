@@ -1,9 +1,7 @@
 <template>
   <div>
     <h3>{{ msg }}</h3>
-    <p>
-      What's the sum of the two numbers?
-    </p>
+    <p>What's the sum of the two numbers?</p>
     <div class="inline">
       <p>{{ x1 }} + {{ x2 }} =</p> <input v-model="guess"> <button v-on:click="check">Check Answer</button>
     </div>
