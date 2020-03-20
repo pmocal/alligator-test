@@ -3,7 +3,7 @@
 ![screenie.png](screenie.png)
 
 ## Description
-Toy calculator app created for the purposes of a tutorial on testing Vue components for alligator.io. That post still in the works. Title will be: **Introduction to Testing Vue.js with Jest**.
+Toy calculator app created for the purposes of a tutorial on testing Vue components for the site alligator.io. The post will come out before the end of March with the title **Introduction to Testing Vue.js with Jest**.
 
 ## Project setup
 ```
